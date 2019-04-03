@@ -11,7 +11,7 @@ Le but ici est de minimiser les données membres de chaque classe en mettant en 
 On remarquera que les animaux peuvent être regroupé selon leurs groupes (mammifère, félin ou cétacé)
 
 La classe mammifère sera la classe principal auquelle toutes les autres devront hérité, l'image ci-dessous démontrera plus clairement le schéma :
-![diagramme.png](https://image.noelshack.com/fichiers/2019/13/3/1553693745-diagramme.png)
+![mammifere.png](https://image.noelshack.com/fichiers/2019/14/3/1554292007-mammifere.png)
 
 Au niveau du code, rien de plus simple niveau syntaxe
 
